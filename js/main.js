@@ -1,6 +1,8 @@
 
 function main() {
-
+$('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
 (function () {
    'use strict';
    

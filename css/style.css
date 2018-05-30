@@ -190,7 +190,8 @@ hr {
 
 /* About Section */
 #about {
-	padding: 70px 0;
+   
+	padding: 100px 0;
 	background: #f6f6f6;
 }
 #about hr {
@@ -217,6 +218,7 @@ hr {
 }
 #skills h2 {
 	color: #fff;
+        
 }
 #skills hr {
 	background: #fff;
@@ -229,10 +231,29 @@ hr {
 	margin-left: 5px;
         margin-top:-20px;
         
+        
         color:#fff;
          border-bottom:3px solid #fff;
     padding-bottom:5px;
         
+    
+}
+#skills ul {
+  
+    
+   
+   margin-top:-40px;
+  margin-bottom:50px;
+   
+    
+}
+#skills li {
+    color:#fff;
+    font-size:25px;
+    margin-top:10px;
+    
+   
+    
     
 }
 
@@ -412,7 +433,7 @@ ol.type li a:hover {
 }
 /* Achivements Section */
 #achievements {
-	padding: 100px 0;
+	padding: 50px 0;
 	background: #1ab3f0;
 }
 #achievements h2 {
@@ -602,7 +623,7 @@ ol.type li a:hover {
 }
 /* Contact Section */
 #contact {
-	padding: 100px 0 40px 0;
+	padding: 50px 0 40px 0;
 	color: #121d1f;
 	background: #1ab3f0;
 }
