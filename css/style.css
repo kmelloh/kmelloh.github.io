@@ -220,7 +220,22 @@ hr {
 }
 #skills hr {
 	background: #fff;
+       
 }
+#skills h4 {
+      color: #000000;
+	font-size: 30px;
+	font-weight: 400;
+	margin-left: 5px;
+        margin-top:-20px;
+        
+        color:#fff;
+         border-bottom:3px solid #fff;
+    padding-bottom:5px;
+        
+    
+}
+
 #skills .skill {
 	margin-bottom: 40px;
 	text-align: center;
@@ -229,6 +244,7 @@ hr {
 #skills .skill h4 {
 	font-weight: 600;
 	color: #fff;
+        font-size:400px;
 }
 .chart {
 	position: relative;
@@ -273,18 +289,19 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
+        
 }
 ul.cat li {
 	display: inline-block;
 }
 ol.type li {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 ol.type li a {
 	background: #1ab3f0;
 	color: #fff;
-	padding: 6px 14px;
+	padding: 8px 12px;
 }
 ol.type li a.active {
 	background: #121d1f;
@@ -400,15 +417,18 @@ ol.type li a:hover {
 }
 #achievements h2 {
 	color: #fff;
+        
 }
 #achievements hr {
 	background: #fff;
+      
 }
 .achievement-box h4 {
 	color: #fff;
 	font-size: 2px;
 	font-weight: 400;
 	margin-left: 5px;
+        
         
 }
 .achievement-box span.count {
@@ -453,6 +473,8 @@ ol.type li a:hover {
     font-size:14px;
     
 }
+
+
 
 
 
@@ -526,13 +548,14 @@ ol.type li a:hover {
 	z-index: 100;
 	position: absolute;
 	left: 0;
-	width: 70px;
-	height: 70px;
+	width: 80px;
+	height: 80px;
 	margin-left: 0;
 	border: 1px solid #eee;
 	border-radius: 100%;
 	text-align: center;
 	background: #fff;
+        
 }
 .timeline>li .timeline-image h4 {
 	margin-top: 20px;
