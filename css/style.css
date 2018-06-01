@@ -191,7 +191,7 @@ hr {
 /* About Section */
 #about {
    
-	padding: 100px 0;
+	padding: 150px 0;
 	background: #f6f6f6;
 }
 #about hr {
@@ -211,6 +211,7 @@ hr {
 	width: 250px;
 	height: 250px;
 	display: inline-block;
+        margin-top:-50px
 }
 #about p {
 	margin-top: 20px;
@@ -230,14 +231,14 @@ hr {
        
 }
 #skills h4 {
-      color: #000000;
+      color: #fff;
 	font-size: 30px;
 	font-weight: 400;
 	margin-left: 5px;
         margin-top:-20px;
         
         
-        color:#fff;
+  
          border-bottom:3px solid #fff;
     padding-bottom:5px;
         
@@ -257,9 +258,13 @@ hr {
     font-size:25px;
     margin-top:10px;
     
+    
    
     
     
+}
+#skills img {
+    margin-left:50px;
 }
 
 #skills .skill {
