@@ -197,9 +197,14 @@ hr {
 #about hr {
 	
 	background: #1ab3f0;
+        
 }
 #about .about-text {
-	margin-left: 10px;
+      
+        margin:50px 0px 50px 5px;
+        color:#1ab3f0;
+        font-size:20px;
+       
 }
 #about img {
 	border-radius: 50%;
@@ -265,7 +270,7 @@ hr {
 #skills .skill h4 {
 	font-weight: 600;
 	color: #fff;
-        font-size:400px;
+        font-size:4px;
 }
 .chart {
 	position: relative;
