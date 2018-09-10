@@ -209,6 +209,8 @@ hr {
         margin:50px 0px 50px 5px;
         color:#1ab3f0;
         font-size:20px;
+        text-align:justify;
+        line-height:25px;
        
 }
 #about img {
